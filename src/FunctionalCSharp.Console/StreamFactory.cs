@@ -2,6 +2,8 @@
 using System.IO;
 using System.Text;
 
+using FunctionalCSharp.DaveFancher;
+
 namespace FunctionalCSharp.Console
 {
     public static class StreamFactory

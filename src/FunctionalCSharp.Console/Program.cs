@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Xml.Linq;
 
+using FunctionalCSharp.DaveFancher;
+
 namespace FunctionalCSharp.Console
 {
     public class Program

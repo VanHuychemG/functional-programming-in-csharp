@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FunctionalCSharp
+namespace FunctionalCSharp.DaveFancher
 {
     public static class FunctionalExtensions
     {
